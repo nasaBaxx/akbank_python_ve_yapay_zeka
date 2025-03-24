@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.6+-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
+
 
 > Gelişmiş algoritma tabanlı metro ağı simülasyonu ve rota optimizasyonu
 
