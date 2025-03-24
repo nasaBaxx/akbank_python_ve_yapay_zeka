@@ -239,9 +239,7 @@ En hızlı rota (6 dakika): Kızılay -> Merkez (Ray Hat) -> Doğu
 
 7. **Web Arayüzü**: Projeyi bir web uygulamasına dönüştürerek, kullanıcıların tarayıcı üzerinden erişmesini sağlamak mümkün olabilir.
 
-## 📝 Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
 
 ---
 
